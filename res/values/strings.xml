@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diet</string>
+    <string name="amountQuestion">Wieviel?</string>
+    <string name="back">Zurück</string>
+    <string name="day">Tag</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="food">Essen</string>
+    <string name="month">Monat</string>
+    <string name="ok">Ok</string>
+    <string name="whatQuestion">Was?</string>
+    <string name="weight">Gewicht</string>
+    <string name="year">Jahr</string>
+    <string name="name">Name</string>
+    <string name="pro">Pro</string>
+    <string name="unit">Einheit</string>
+    <string name="calories">Kalorien</string>
+    <string name="carbs">Kohlenhydrate</string>
+    <string name="sugar">Zucker</string>
+    <string name="fat">Fett</string>
+    <string name="protein">Eiweiss</string>
+    <string name="newFood">Neu</string>
+</resources>
